@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserBarbar</string>
+    <string name="username">Username</string>
+    <string name="bar_bar">BAR-BAR</string>
+    <string name="_62">+62</string>
+    <string name="subtitle">Masukan nomor telephone anda untuk mengakses aplikasi bar-bar</string>
+    <string name="nomor_telephone">Nomor Telephone</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="subotp">Please type the verification code sent to</string>
+    <string name="validate">VALIDATE</string>
+    <string name="_60">60</string>
+    <string name="sign_in">Sign in</string>
+    <string name="_6282169146904">+6282169146904</string>
+</resources>
